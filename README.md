@@ -1,17 +1,22 @@
-# trybe-exercicios
+# Trybe
 
-Aqui se dá o início da minha carreira como DEV na Trybe!
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Isaías Nóbrega Fernandes](LinkDoSeuLinkedinAqui)_ enquanto estudava na [Trybe](https://www.betrybe.com/) 🚀
 
-Nesta pasta está localizada todos os exercícios realizados durante o curso por Isaías Nóbrega Fernandes (eu mesmo), da turma 32, tribo B (Turma do Pão de Queijo para os mais íntimos).
+_"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
-Mensagem para o eu do futuro:
-Se um dia eu voltar aqui para relembrar o meu início, espero que por motivos de nostalgia e não por quê tudo acabou dando errado (HAHAHAHA), saiba que eu estou muito orgulhoso de mim mesmo. Com certeza deve ter sido, e vai ser, muito difícil, porém eu consegui, eu conquistei e estou conquistando o meu objetivo, um após o outro, alcançando voos cada vez mais alto.
-Eu sei que agora, no presente momento, está sendo uma fase difícil na nossa vida, mas se eu estiver lendo essa mensagem então valeu a pena cada segundo, cada dificuldade, cada frustação, mas não só isso, valeu a pena cada sorriso, cada sentimento de realização, cada esforço e dedicação, enfim, valeu a pena tudo.
-Então, eu do futuro, colha todos os frutos das nossas vitórias, e deixe que o eu do presente, plante todas as sementes para que isso aconteça. Te vejo em um ano, dois, ou até mesmo 10 ou mais, mas nos vemos em algum momento.
+O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-Boa trajetória e uma excelente vida, a gente só está começando!
+## Fundamentos do Desenvolvimento Web ✅
 
-De: Isaías Nóbrega Fernandes
-Para: Isaías Nóbrega Fernandes
+##### Bloco 1: Introdução - Unix & Shell
 
-25/03/2023 - 20:07 PM.
+- [ ] 1-3: _Unix & Shell- Part 1_
+- [ ] 1-4: _Unix & Shell- Part 2_
+
+##### Bloco 2: Git & GitHub
+
+- [ ] 2-1: _O que é e para que serve?_
+- [ ] 2-2: _Entendendo os comandos_
+- [ ] 2-3: _Internet - Entendendo como ela funciona_
+
+(Novas informações em breve)
