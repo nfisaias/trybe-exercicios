@@ -8,15 +8,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos do Desenvolvimento Web ✅
 
-##### Bloco 1: Introdução - Unix & Shell
+##### Seção 1: Unix, Shell e Git
 
-- [ ] 1-3: _Unix & Shell- Part 1_
-- [ ] 1-4: _Unix & Shell- Part 2_
+- [x] Dia 01: _Unix & Shell_
+- [x] Dia 02: _Git - O que é e para que serve_
+- [x] Dia 03: _Git & GitHub - Entendendo os comandos_
 
-##### Bloco 2: Git & GitHub
+##### Seção 2: Introdução à HTML & CSS
 
-- [ ] 2-1: _O que é e para que serve?_
-- [ ] 2-2: _Entendendo os comandos_
-- [ ] 2-3: _Internet - Entendendo como ela funciona_
+- [ ] Dia 01: _HTML & CSS - Estruturas de página_
+- [ ] Dia 02: _HTML & CSS - Primeiros passos em CSS_
+- [ ] Dia 03: _HTML & CSS - Seletores e posicionamento_
+- [ ] Dia 04: _HTML Semântico_
+- [ ] Dia 05: _Projeto - Lessons Learned_
 
-(Novas informações em breve)
+(Novas atualizações em breve...)
