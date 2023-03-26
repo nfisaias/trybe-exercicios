@@ -1,0 +1,1 @@
+Os exercícios do dia 02 foram sobre criar um repositório Git e suas funções, porém eu já criei um repositório Git, que é esse no qual eu estou enviando meu exercícios. Como não se posso criar um repositório Git dentro de um já existente, vou deixar o meu repositório atual como exercício já realizado para o dia 02.
