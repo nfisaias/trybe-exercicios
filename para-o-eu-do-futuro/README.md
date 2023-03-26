@@ -1,4 +1,4 @@
-# trybe-exercicios
+# Cápsula do tempo!
 
 Aqui se dá o início da minha carreira como DEV na Trybe!
 
