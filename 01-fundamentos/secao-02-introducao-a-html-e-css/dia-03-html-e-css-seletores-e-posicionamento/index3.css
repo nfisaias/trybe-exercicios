@@ -1,0 +1,13 @@
+h1, p {
+    text-align: center;
+  }
+  ul:hover, ol:hover {
+    background-color:blueviolet;
+  }
+  li:active {
+    font-family: cursive;
+    font-size: 20px;
+  }
+  li {
+    list-style: none;
+  }
