@@ -1,0 +1,1 @@
+Exercícios - Dia 01: JavScript - Primeiros passos
