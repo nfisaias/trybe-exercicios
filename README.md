@@ -16,10 +16,19 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 2: Introdução à HTML & CSS
 
-- [ ] Dia 01: _HTML & CSS - Estruturas de página_
-- [ ] Dia 02: _HTML & CSS - Primeiros passos em CSS_
-- [ ] Dia 03: _HTML & CSS - Seletores e posicionamento_
-- [ ] Dia 04: _HTML Semântico_
-- [ ] Dia 05: _Projeto - Lessons Learned_
+- [x] Dia 01: _HTML & CSS - Estruturas de página_
+- [x] Dia 02: _HTML & CSS - Primeiros passos em CSS_
+- [x] Dia 03: _HTML & CSS - Seletores e posicionamento_
+- [x] Dia 04: _HTML Semântico_
+- [x] Dia 05: _Projeto - Lessons Learned_
+
+##### Seção 3: Introdução à JavaScript
+
+- [x] Dia 01: _JavaScript - Primeiros passos_
+- [ ] Dia 02: _JavaScript - Array e loop For_
+- [ ] Dia 03: _JavaScript - Funções_
+- [ ] Dia 04: _JavaScript - Objetos_
+- [ ] Dia 05: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [ ] Dia 06: _Projeto - Playgrounds Functions_
 
 (Novas atualizações em breve...)
