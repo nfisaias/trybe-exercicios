@@ -1,11 +1,7 @@
-let numbers = [];
+let fatorial = 1;
 
-for (let index = 1; index <= 25; index += 1) {
-  numbers.push(index);
+for (let index = 10; index > 0; index -= 1) {
+  fatorial *= index;
 }
 
-console.log(numbers);
-
-for (let index = 0; index < numbers.length; index += 1) {
-    console.log(numbers[index] / 2);
-  };
+console.log(fatorial);
