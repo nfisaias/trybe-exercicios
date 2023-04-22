@@ -1,0 +1,1 @@
+Exercícios para ser realizado pelo repositório!

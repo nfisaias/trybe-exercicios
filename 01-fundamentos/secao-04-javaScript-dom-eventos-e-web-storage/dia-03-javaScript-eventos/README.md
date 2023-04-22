@@ -1,1 +1,1 @@
-Exercício a ser realizado pelo repositório!
+Exercício para ser realizado pelo repositório!
